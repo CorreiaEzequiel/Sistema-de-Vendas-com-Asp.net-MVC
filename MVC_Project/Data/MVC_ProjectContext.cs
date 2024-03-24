@@ -14,6 +14,9 @@ namespace MVC_Project.Data
         {
         }
 
-        public DbSet<MVC_Project.Models.Departaments> Departaments { get; set; } = default!;
+        public DbSet<Departaments> Departaments { get; set; }
+        public DbSet<Vendedor> Vendedor { get; set; }
+        public DbSet<RegistroVendas> RegistroVendas { get; set; }
+
     }
 }
