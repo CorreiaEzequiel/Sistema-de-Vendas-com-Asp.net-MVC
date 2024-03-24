@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T0z3GviGmOAOPPyJLjbvHPURBqU9HAcqWocQwD8XWKs=",
+  "Hash": "rzQE6/jOieTnldsr3SnXy0YzgPaQ2yfVQH6vO4FFpqY=",
   "Source": "MVC_Project",
   "BasePath": "_content/MVC_Project",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Arquivos .Net\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-superHero.css",
+      "SourceId": "MVC_Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Arquivos .Net\\MVC_Project\\MVC_Project\\wwwroot\\",
+      "BasePath": "_content/MVC_Project",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-superHero.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-superHero.css"
     },
     {
       "Identity": "C:\\Arquivos .Net\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",

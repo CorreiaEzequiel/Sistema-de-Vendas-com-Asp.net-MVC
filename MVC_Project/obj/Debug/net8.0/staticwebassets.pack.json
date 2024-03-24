@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Arquivos .Net\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-superHero.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-superHero.css"
+    },
+    {
       "Id": "C:\\Arquivos .Net\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },

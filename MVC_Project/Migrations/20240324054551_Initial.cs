@@ -7,7 +7,7 @@ namespace MVC_Project.Migrations
     /// <inheritdoc />
     public partial class Initial : Migration
     {
-        /// <inheritdoc />
+        /// <inheritdoc /> 
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
